@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+    <Student>
+        <name>Alesia Radkevich</name>
+        <averageScore>8</averageScore>
+    </Student>
+    <Student>
+        <name>Ivanov Ivan</name>
+        <averageScore>6</averageScore>
+    </Student>
+    <Student><name>Petrov Petr</name><averageScore>10</averageScore></Student><Student><name>Ermakovich Pavel</name><averageScore>10</averageScore></Student><Student><name>Cmirnov</name><averageScore>8</averageScore></Student></students>

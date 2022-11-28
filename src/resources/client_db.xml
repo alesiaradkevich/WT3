@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+    <Client>
+        <name>Alesia</name>
+        <password>4321</password>
+        <allowance>ADD</allowance>
+    </Client>
+    <Client><name>Sasha</name><password>1234</password><allowance>EDIT</allowance></Client>
+    <Client><name>Pasha</name><password>1111</password><allowance>EDIT</allowance></Client>
+    <Client><name>Lena</name><password>4444</password><allowance>EDIT</allowance></Client>
+</clients>
